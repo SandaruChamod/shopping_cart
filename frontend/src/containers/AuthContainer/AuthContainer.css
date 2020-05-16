@@ -1,0 +1,11 @@
+.auth-context {
+    margin-top: 5%;
+    margin-left: 10%;
+    height: 500px;
+}
+
+.login-box, .register-box {
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 30%;
+}

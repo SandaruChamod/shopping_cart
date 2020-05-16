@@ -1,0 +1,10 @@
+.card-wrapper {
+    padding: 10px;
+}
+
+.layout-content {
+    background: whitesmoke;
+    padding: 24px;
+    min-height: 556px;
+    display: inline-block;
+}
